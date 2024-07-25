@@ -1,0 +1,1866 @@
+[
+    {
+        "name": "AISHIHIK LAKE",
+        "location": "61:5-61:8N, 137:0-137:0W; 914 m above sea level.",
+        "latitude": 61.10833333333334,
+        "longitude": -137.0,
+        "physical_dimensions": {
+            "Surface area [km2]": "146",
+            "Volume [km3]": "4.38",
+            "Maximum depth [m]": "120*1",
+            "Mean depth [m]": "30",
+            "Water level": "Regulated",
+            "level fluctuation [m]": "1.8*2-0.8*3",
+            "Length of shoreline [km]": "153",
+            "Residence time [yr]": "14.6*4",
+            "Catchment area [km2]": "2,765"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [
+                "Zooplankton (7)"
+            ],
+            "benthos": [
+                "Benthos (7)"
+            ],
+            "fish_species": [
+                "Coregonus clupeaformis",
+                "Salvelinus namaycush",
+                "Prosopium cyclindraceum",
+                "Thymallus arcticus",
+                "Esox lucius",
+                "Catastomus catastomus",
+                "Lota lota",
+                "Cottus cognatus."
+            ],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": [
+                {
+                    "Depth": "",
+                    "1972": "N.A.",
+                    "1975": "0.2"
+                }
+            ]
+        }
+    },
+    {
+        "name": "AMISK LAKE",
+        "location": "Bathymetric map [m](8).",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "5",
+            "Volume [km3]": "0.0998",
+            "Maximum depth [m]": "60",
+            "Mean depth [m]": "15.5",
+            "Water level": "Regulated",
+            "Normal range of annual water level fluctuation [m]": "0.1",
+            "Length of shoreline [km]": "24.6",
+            "Residence time [yr]": "8",
+            "Catchment area [km2]": "244"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {}
+    },
+    {
+        "name": "BAPTISTE LAKE",
+        "location": "",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "10",
+            "Volume [km3]": "0.0846",
+            "- (North)": "5.9",
+            "- (South)": "12.7",
+            "Water level": "Unregulated",
+            "Normal range of annual water level fluctuation [m]": "0.2-1",
+            "Length of shoreline [km]": "26.4",
+            "Residence time [yr]": "6",
+            "Catchment area [km2]": "288"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {}
+    },
+    {
+        "name": "BUFFALO POUND LAKE",
+        "location": "",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "29.5",
+            "Volume [km3]": "0.0898",
+            "Maximum depth [m]": "5.6",
+            "Mean depth [m]": "3.0",
+            "Water level": "Regulated",
+            "Length of shoreline [km]": "72.5",
+            "Residence time [yr]": "1.5",
+            "Catchment area [km2]": "3,310"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": []
+        }
+    },
+    {
+        "name": "BUTTLE LAKE",
+        "location": "",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "35",
+            "Volume [km3]": "1.72",
+            "Maximum depth [m]": "125",
+            "Mean depth [m]": "48.8",
+            "Water level": "Regulated",
+            "Normal range of annual water level fluctuation [m]": "9.0",
+            "Length of shoreline [km]": "75",
+            "Residence time [yr]": "1.0",
+            "Catchment area [km2]": "705"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [
+                "In 1981 when metal levels were peaking, the zooplankton community indicated a trend toward decreasing numbers of cladocerans and calanoid copepods.  Throughout 1984 zooplankton were present in such low numbers that they were found in only one of forty samples.  Zooplankton began to reappear in 1985, gradually becoming more abundant and diverse through the spring and summer months.  By late summer species such as Leptodora kindtii, Holopedium gibberellum, Polyphemus pediculus and Daphnia spp., which had been absent for a number of years, were reappearing along with Diaptomus sp., Keratella cochlearis, Kellicottia longispina, Bosmina longirostris, B. coregoni, Cyclops sp. and Polyarthra sp.  In 1986, only two years after the mine waste diversion, species composition was similar to that sampled in 1966-1967."
+            ],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": []
+        }
+    },
+    {
+        "name": "CANANDAIGUA LAKE",
+        "location": "Although the Finger Lakes region is now well-known\nfor its many vineyards and orchards, it had been densely forested up until\nthe early 1800's when large areas were cleared for agriculture by white\nsettlers. The forests are now in the process of expanding as marginal farmland\nis abandoned and gradually invaded by trees. Of Canandaigua Lake's 400\nkm2 drainage basin, approximately half is still forested, 40% is in active\nagriculture, 2% is residential, and less than 1% is industrial. Active\nagriculture is confined mainly to the northern areas, while the southern\nareas are heavily forested. The climate of Canandaigua Lake is characterized\nby long, cold winters and warm, dry summers. Most winters, the north and\nsouth ends of the lake freeze over for about a kilometer or two from their\nends. Occasionally, the entire lake freezes over. The lake is utilized\nprimarily as a water source for five municipalities in the area and the\nresidents around the lake perimeter. Secondarily, it is used for recreation,\nflow equalization, and, to a limited extent, power. There are several public\nrecreation areas around the lake which provide for summer swimming, boating\nand fishing. The level of the lake is regulated within the narrow range\nbetween 209.4 and 210 m MSL (1).",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "42",
+            "Volume [km3]": "1.6401",
+            "Maximum depth [m]": "84.1",
+            "Mean depth [m]": "38.8",
+            "Water level": "Regulated",
+            "Length of shoreline [km]": "57.8",
+            "Residence time [yr]": "13.4",
+            "Catchment area [km2]": "407"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": []
+        }
+    },
+    {
+        "name": "CANIAPISCAU RESERVOIR",
+        "location": "The Caniapiscau Reservoir was constructed by Societe\nd'Energie de la Baie James, a crown corporation of the Province of Quebec\n(now a subsidiary of Hydro Quebec) as part of a $16 billion (Can. $) development\nproject called La Grande Complex Phase 1. It regularizes on an annual and\ninterannual basis the whole complex (1) and produces 10,300 megawatts of\nelectricity. The electricity is transported in 5 high voltage lines which\nare supported by 12,000 hydroelectric transmission towers spread over the\nlongest high voltage transmission system in North America (12).",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "1,500-4,285*",
+            "Volume [km3]": "14.7-53.8*",
+            "Maximum depth [m]": "49",
+            "Water level": "Regulated",
+            "level fluctuation [m]": "12.9",
+            "Length of shoreline [km]": "4,850",
+            "Residence time [yr]": "2.2",
+            "Catchment area [km2]": "36,800"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [
+                "Zooplankton (6, 7)"
+            ],
+            "benthos": [],
+            "fish_species": [
+                "Abundance of fish species before impoundment in the Caniapiscau River basin based on a total catch of 9",
+                "015 individuals collected in 1973-1976 (6). For detailed species list by sampling station",
+                "see (7)."
+            ],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": []
+        }
+    },
+    {
+        "name": "CAYUGA LAKE",
+        "location": "Although the Finger Lakes region is now well-known\nfor its many vineyards and orchards, it had been densely forested up until\nthe early 1800's when large areas were cleared for agriculture by white\nsettlers. The forests are now in the process of expanding as marginal farmland\nis abandoned and gradually invaded by trees. In the drainage basin, approximately\nhalf the land area is in active agriculture, one-third is forested, and\n2% is residential.",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "172",
+            "Volume [km3]": "9.4",
+            "Maximum depth [m]": "132.6",
+            "Mean depth [m]": "54.5",
+            "Water level": "Regulated",
+            "Length of shoreline [km]": "153.4",
+            "Residence time [yr]": "18.2*",
+            "Catchment area [km2]": "2,033",
+            "* From Singley (1973).": ""
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {}
+    },
+    {
+        "name": "CONESUS LAKE",
+        "location": "The climate of Conesus Lake is characterized by\ncold, snowy winters and warm, dry summers; and the lake regularly freezes\nover in the winter. Although the Finger Lakes region is now well-known\nfor its many vineyards and orchards, it had been densely forested up until\nthe early 1800's when large areas were cleared for agriculture by white\nsettlers. The forests are now in the process of expanding as marginal farmland\nis abandoned and gradually invaded by trees. Of the land contained within\nthe drainage basin of Conesus Lake, approximately half is considered active\nagriculture, 30% is forested, and 3% is residential.",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "13",
+            "Volume [km3]": "0.1568",
+            "Maximum depth [m]": "20.2",
+            "Mean depth [m]": "11.5",
+            "Water level": "Unregulated",
+            "Length of shoreline [km]": "29.6",
+            "Residence time [yr]": "3.2",
+            "Catchment area [km2]": "168"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [
+                "Zooplankton population level in the lake."
+            ],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": []
+        }
+    },
+    {
+        "name": "GARROW LAKE",
+        "location": "Location information not available",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "4",
+            "Volume [km3]": "0.102",
+            "Maximum depth [m]": "50",
+            "Mean depth [m]": "24.5",
+            "Water level": "Unregulated",
+            "Normal range of annual water level fluctuation [m]": "<1",
+            "Length of shoreline [km]": "10",
+            "Catchment area [km2]": "10.5"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": []
+        }
+    },
+    {
+        "name": "GREAT BEAR LAKE",
+        "location": "65:0-67:0N, 118:0-123:0W; 186 m above sea level.",
+        "latitude": 66.0,
+        "longitude": -120.5,
+        "physical_dimensions": {
+            "Surface area [km2]": "31,153",
+            "Volume [km3]": "2,236",
+            "Maximum depth [m]": "446",
+            "Mean depth [m]": "71.7",
+            "Water level": "Unregulated",
+            "level fluctuation [m]": "0.2-0.3",
+            "Length of shoreline [km]": "2,719*",
+            "Residence time [yr]": "124",
+            "Catchment area [km2]": "114,717"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [
+                "Zooplankton* [no m-2]"
+            ],
+            "benthos": [
+                "Benthos (27)"
+            ],
+            "fish_species": [
+                "Salvelinus namaycush*",
+                "Coregonus clupeaformis*",
+                "C. artedii",
+                "Porsopium cylindraceum",
+                "Stizostedion vitueum",
+                "Esox lucius",
+                "Catostomus catostomus",
+                "Thymallus arcticus",
+                "Myoxocephalus quadricornis thompsonii",
+                "Cottus cognatus",
+                "Pungitius pungitius (23",
+                "24",
+                "25",
+                "27",
+                "28)(*economically important). Also taken: Oncorhynchus keta",
+                "O. kisutch (one specimen only)",
+                "Salvelinus malma."
+            ],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": []
+        }
+    },
+    {
+        "name": "GREAT CENTRAL LAKE",
+        "location": "Location information not available",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "51",
+            "Volume [km3]": "6.324",
+            "Maximum depth [m]": "294",
+            "Mean depth [m]": "124",
+            "Water level": "Regulated",
+            "level fluctuation [m]": "1-1.5",
+            "Length of shoreline [km]": "76 (1a)",
+            "Residence time [yr]": "3.7",
+            "Catchment area [km2]": "308"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [
+                "Zooplankton [mg l-1]"
+            ],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": []
+        }
+    },
+    {
+        "name": "HARVEYS LAKE",
+        "location": "",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "2.66",
+            "Volume [km3]": "0.0294",
+            "Maximum depth [m]": "29.3",
+            "Mean depth [m]": "11",
+            "Length of shoreline [km]": "13.4",
+            "Residence time [yr]": "3.06",
+            "Catchment area [km2]": "14.7"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {}
+    },
+    {
+        "name": "HAZEN LAKE",
+        "location": "81:0-81:5N, 68:7-73:0W; 158 m above sea level.",
+        "latitude": 81.04166666666667,
+        "longitude": -70.55833333333334,
+        "physical_dimensions": {
+            "Surface area [km2]": "542",
+            "Maximum depth [m]": "280",
+            "Water level": "Unregulated",
+            "Normal range of annual water": "",
+            "level fluctuation [m]": "1.4*",
+            "Length of shoreline [km]": "185"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [
+                "Zooplankton (10)"
+            ],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": []
+        }
+    },
+    {
+        "name": "HEMLOCK LAKE",
+        "location": "Although Hemlock Lake is relatively small, it\npossesses the proportions characteristic of the Finger Lakes with a length\nof 10.8 km, mean width of 0.7 km, mean depth of 13.6 m, and a very steep\nslope of 7.8%. Although the Finger Lakes region is now well-known for its\nmany vineyards and orchards, it had been densely forested up until the\nearly 1800's when large areas were cleared for agriculture by white settlers.\nThe forests are now in the process of expanding as marginal farmland is\nabandoned and gradually invaded by trees.",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "7",
+            "Volume [km3]": "0.10589",
+            "Maximum depth [m]": "27.5",
+            "Mean depth [m]": "13.6",
+            "Water level": "Regulated",
+            "Residence time [yr]": "2.0",
+            "Catchment area [km2]": "111"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": [
+                {
+                    "Depth": "Forest",
+                    "1972": "62.8",
+                    "1975": "65"
+                },
+                {
+                    "Depth": "Active agriculture",
+                    "1972": "24.2",
+                    "1975": "25"
+                },
+                {
+                    "Depth": "Inactive agriculture",
+                    "1972": "8.5",
+                    "1975": "9"
+                },
+                {
+                    "Depth": "Residential area",
+                    "1972": "0.7",
+                    "1975": "1"
+                },
+                {
+                    "Depth": "Total",
+                    "1972": "96.2",
+                    "1975": "100"
+                }
+            ]
+        }
+    },
+    {
+        "name": "HONEOYE LAKE",
+        "location": "",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "7",
+            "Volume [km3]": "0.03481",
+            "Maximum depth [m]": "9.2",
+            "Mean depth [m]": "4.9",
+            "Residence time [yr]": "0.8",
+            "Catchment area [km2]": "95"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {}
+    },
+    {
+        "name": "KAMLOOPS LAKE",
+        "location": "",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "52",
+            "Volume [km3]": "3.7",
+            "Maximum depth [m]": "143",
+            "Mean depth [m]": "71",
+            "Water level": "Unregulated",
+            "Normal range of annual water level fluctuation [m]": "5",
+            "Length of shoreline [km]": "60.5",
+            "Residence time [yr]": "ca. 0.2*",
+            "Catchment area [km2]": "39,050"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {}
+    },
+    {
+        "name": "KEJIMKUJIK LAKE",
+        "location": "",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "26",
+            "Volume [km3]": "0.106",
+            "Maximum depth [m]": "19.2",
+            "Mean depth [m]": "4.4",
+            "Water level": "Unregulated",
+            "Normal range of annual water level fluctuation [m]": "1.0",
+            "Length of shoreline [km]": "45",
+            "Residence time [yr]": "0.2",
+            "Catchment area [km2]": "289"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": []
+        }
+    },
+    {
+        "name": "KEUKA LAKE",
+        "location": "Location information not available",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "47",
+            "Volume [km3]": "1.4337",
+            "Maximum depth [m]": "55.8",
+            "Mean depth [m]": "30.5",
+            "Residence time [yr]": "6.3",
+            "Catchment area [km2]": "484"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": [
+                {
+                    "Depth": "Forest",
+                    "1972": "198.9",
+                    "1975": "49"
+                },
+                {
+                    "Depth": "Active agriculture",
+                    "1972": "132.2",
+                    "1975": "33"
+                },
+                {
+                    "Depth": "Inactive agriculture",
+                    "1972": "59.7",
+                    "1975": "15"
+                },
+                {
+                    "Depth": "Residential area",
+                    "1972": "13.8",
+                    "1975": "3"
+                },
+                {
+                    "Depth": "Total",
+                    "1972": "404.6",
+                    "1975": "100"
+                }
+            ]
+        }
+    },
+    {
+        "name": "KEZAR LAKE",
+        "location": "43:2 N, 71:6 W; 276.2 m above sea level.",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "1",
+            "Volume [km3]": "0.002",
+            "Maximum depth [m]": "8.2",
+            "Mean depth [m]": "2.8",
+            "Water level": "Regulated",
+            "level fluctuation [m]": "0.3",
+            "Length of shoreline [km]": "3.4",
+            "Residence time [yr]": "0.1",
+            "Catchment area [km2]": "28"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [
+                "Zooplankton (l)"
+            ],
+            "benthos": [
+                "Benthos (2)"
+            ],
+            "fish_species": [
+                "Micropterus dolomieui",
+                "M. lectalurus",
+                "Notemigonus crysoleucas",
+                "Esox niger",
+                "Perca flavescens",
+                "Anguilla rostrata",
+                "Catostomus commersoni",
+                "Lepomis gibbosus",
+                "Cyprinidae."
+            ],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": []
+        }
+    },
+    {
+        "name": "KOOTENAY LAKE",
+        "location": "49:8N, 116:5W; 529.7 m above sea level.",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "389",
+            "Volume [km3]": "36.7",
+            "Maximum depth [m]": "154",
+            "Mean depth [m]": "94",
+            "Water level": "Regulated",
+            "level fluctuation [m]": "4",
+            "Length of shoreline [km]": "198.4*",
+            "Residence time [yr]": "1.8",
+            "Catchment area [km2]": "45,584"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [
+                "Zooplankton* [mg (dry wt.) m-2]"
+            ],
+            "benthos": [],
+            "fish_species": [
+                "Cattle 31",
+                "843 (Creston area 8",
+                "843",
+                "East Kootenay 15",
+                "000",
+                "assume USA 8",
+                "000); swine",
+                "sheep and poultry are negligible."
+            ],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": []
+        }
+    },
+    {
+        "name": "LA GRANDE 2 RESERVOIR",
+        "location": "53:0-54:0N, 75:5-78:0W; 173.5 m above sea level.",
+        "latitude": 53.5,
+        "longitude": -76.54166666666666,
+        "physical_dimensions": {
+            "Surface area [km2]": "2,136-2,835*1",
+            "Volume [km3]": "42.3-61.7*1",
+            "Maximum depth [m]": "137",
+            "Mean depth [m]": "21.8",
+            "Water level": "Regulated",
+            "level fluctuation [m]": "8.7",
+            "Length of shoreline [km]": "4,550 (3)",
+            "Residence time [yr]": "0.5 (4)",
+            "(La Grande River)": "97,643*2",
+            "(La Grande Complex)": "176,810*3"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [
+                "Zooplankton: Fig. NAM-28-09."
+            ],
+            "benthos": [
+                "Benthos: Fig. NAM-28-09."
+            ],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {}
+    },
+    {
+        "name": "LAKE AMATITLAN",
+        "location": "",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "15.2",
+            "Volume [km3]": "0.286",
+            "Maximum depth [m]": "33",
+            "Mean depth [m]": "18",
+            "Water level": "Unregulated",
+            "Normal range of annual water level fluctuation [m]": "1.5 2.3",
+            "Catchment area [km2]": "368"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {}
+    },
+    {
+        "name": "LAKE CHAMPLAIN",
+        "location": "The lake occupies a north-south fault zone, and\nextends 174 km from Whitehall, N. Y. to its outlet in Canada. The lake\nflows northerly through its outlet, the Richeleau River, into the St. Lawrence\nRiver near Montreal. The maximum width of the lake is 19 km. The drainage\nbasin of the lake of 19,881 km2 includes portions of the States of New\nYork and Vermont and the Province of Quebec in Canada.",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {},
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": []
+        }
+    },
+    {
+        "name": "LAKE CHAPALA",
+        "location": "",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "1,112",
+            "Volume [km3]": "7.9",
+            "Maximum depth [m]": "10.5",
+            "Mean depth [m]": "7.2",
+            "Water level": "Regulated",
+            "Normal range of annual water level fluctuation [m]": "1.2",
+            "Length of shoreline [km]": "215",
+            "Residence time [yr]": "10.2",
+            "Catchment area [km2]": "52,500"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {}
+    },
+    {
+        "name": "LAKE CHICOT",
+        "location": "A flood in 1927 partially created a natural earth\ndam dividing the lake into a large lower lake and a considerably smaller\nupper lake. This dam was completed by the State of Arkansas. Development\nof a levee system forced the enlargement of the lake's watershed to its\npresent 350 square miles.",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "17",
+            "Volume [km3]": "0.0625",
+            "Maximum depth [m]": "",
+            "(Upper lake)": "3.0",
+            "(Lower lake)": "3.8",
+            "Mean depth [m]": "",
+            "Water level": "Regulated",
+            "Length of shoreline [km]": "58.2",
+            "Residence time [yr]": "0.4",
+            "Catchment area [km2]": "906"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": []
+        }
+    },
+    {
+        "name": "LAKE DIEFENBAKER",
+        "location": "",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "430",
+            "Volume [km3]": "9.4",
+            "Maximum depth [m]": "66",
+            "Mean depth [m]": "21.6",
+            "Water level": "Regulated",
+            "Normal range of annual water level fluctuation [m]": "7.5",
+            "Length of shoreline [km]": "760",
+            "Residence time [yr]": "2.5",
+            "Catchment area [km2]": "135,500"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": []
+        }
+    },
+    {
+        "name": "LAKE DILLON",
+        "location": "39:5N, 106:3W; 2,750 m above sea level.",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "13",
+            "Volume [km3]": "0.323",
+            "Mean depth [m]": "24.1",
+            "Water level": "Regulated",
+            "Length of shoreline [km]": "39.4",
+            "Catchment area [km2]": "852"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [
+                "Zooplankton abundance."
+            ],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {}
+    },
+    {
+        "name": "LAKE ERIE",
+        "location": "Extensive commerce is carried out between the\nharbors on the lake as well as to and from the other Great Lakes. L. Erie\nis thus quite important to the St. Lawrence seaway system. The western\nshore side is one of the most highly industrialized and densely populated\nareas in the United States. The lake reached a fairly high level of eutrophication\nsimilar to that of L. Ontario before the 1970's. On the other hand, L.\nErie is known, together with L. Michigan, for abundant fish catch which\nis much greater than that in other Great Lakes.",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "25,821",
+            "Volume [km3]": "458",
+            "Maximum depth [m]": "64",
+            "Mean depth [m]": "17.7",
+            "Water level": "Unregulated",
+            "Length of shoreline [km]": "1,369",
+            "Residence time [yr]": "2.6",
+            "Catchment area [km2]": "78,769*"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": []
+        }
+    },
+    {
+        "name": "LAKE HURON",
+        "location": "Many long freighters and other seafacing vessels\ncome and go on this \"inland sea\". In summer, recreational boating and yacht-racing\nare supported by many local clubs almost every day.",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "59,570",
+            "Volume [km3]": "3,535",
+            "Maximum depth [m]": "228",
+            "Mean depth [m]": "53",
+            "Water level": "Unregulated",
+            "Length of shoreline [km]": "5,088",
+            "Residence time [yr]": "22.6",
+            "Catchment area [km2]": "128,464*"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {}
+    },
+    {
+        "name": "LAGO XOLOTLAN",
+        "location": "",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "1,016",
+            "Volume [km3]": "7.97",
+            "Maximum depth [m]": "26",
+            "Mean depth [m]": "7.8",
+            "Residence time [yr]": "Endorheic",
+            "Catchment area [km2]": "6,668"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": [
+                {
+                    "Depth": "Total",
+                    "1972": "1,000,000",
+                    "1975": "150"
+                }
+            ]
+        }
+    },
+    {
+        "name": "LAKE MEMPHREMAGOG",
+        "location": "",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {},
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {}
+    },
+    {
+        "name": "LAKE MENDOTA",
+        "location": "The lake has a freezing period of about three\nand a half months annually, and the concentration of dissolved oxygen in\nthe water is generally high in the epiliminion throughout the year, though\nit falls to 1-2 mg/l in the bottom water during the summer.",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "39",
+            "Volume [km3]": "0.481",
+            "Maximum depth [m]": "25",
+            "Mean depth [m]": "12.2",
+            "Length of shoreline [km]": "35.3",
+            "Residence time [yr]": "3.1-8.8",
+            "Catchment area [km2]": "522"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {}
+    },
+    {
+        "name": "Name not found",
+        "location": "Location information not available",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {},
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {}
+    },
+    {
+        "name": "LAKE OKEECHOBEE",
+        "location": "Since the early 1900's major channel improvements\nand canal systems have been introduced. Most of the present drainage and\nwater supply system was designed and constructed by the U.S. Army Corps\nof Engineers and is maintained and operated by the South Florida Water\nManagement District. Erection of low muck levees along the south and southwest\nshores eliminated sheet flow into the Everglades in the early 1920's. These\noriginal levees were breached by the 1926 and 1928 hurricanes with the\nresultant loss of over 2,100 lives. This catastrophe resulted in the Corps\nof Engineers building a larger levee around the southern end of the lake.\nConstruction of this section of levee was completed in 1937. Later, between\n1960 and 1964, the levee was raised several additional feet and extended\naround the entire lake. Today the lake is completely surrounded by a large\nlevee.",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "1,894",
+            "Maximum depth [m]": "4.5",
+            "Water level": "Regulated",
+            "Normal range of annual water": "",
+            "level fluctuation [m]": "1.1",
+            "Length of shoreline [km]": "216",
+            "Residence time [yr]": "3.5",
+            "Catchment area [km2]": "12,394"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": []
+        }
+    },
+    {
+        "name": "LAKE ONTARIO",
+        "location": "The eutrophication of the lake started with the\nincrease of population in the lake's drainage basin at the beginning of\nthis century, and continued to advance until around 1973. It has been shown\nby scientists that the eutrophication of Lakes Ontario, Erie and Michigan\nis due to the increase in phosphorus loading, of which the main source\nis sewage effluents and in particular the domestic use of detergents containing\nphosphorus. After the Canada. U.S. international treaty was signed in 1972\nfor preventing eutrophication of the Great Lakes, however, the concentration\nof phosphorus in the lake water is decreasing owing to the prohibition\non detergent use and the required treatment of sewage discharged into the\ndrainage basin.",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "19,009",
+            "Volume [km3]": "1,638",
+            "Maximum depth [m]": "224",
+            "Mean depth [m]": "86",
+            "Water level": "Unregulated",
+            "Length of shoreline [km]": "1,161",
+            "Residence time [yr]": "7.9",
+            "Catchment area [km2]": "75,272*"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": []
+        }
+    },
+    {
+        "name": "LAC SAINT-JEAN (LAKE SAINT-JOHN)",
+        "location": "Although the Saguenay Fiord physiographic unit\nis very rugged, it is of majestic beauty and this has recently lead our\ngovernments to create national parks within that part of the country. Moreover,\nit is the most southerly fiord of the North Hemisphere and has been sustaining\nsince postglacial times a typical arctic inland-entrapped fauna within\nits cold water which reaches a depth over 350 m. The white whale (Delphinapterus\nleucan) has been, till lately, the most important species representative\nof this northern fauna. Presently, because of industrial pollution originating\nsince half a century largely from the aluminium smelters, their numbers\nare rapidly diminishing. From its asymmetric population age structure,\nit is only a matter of time before being completely wiped out from that\npeculiar range habitat.",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "1,053",
+            "Volume [km3]": "11.9",
+            "Maximum depth [m]": "63.1",
+            "Mean depth [m]": "11.4",
+            "Water level": "Regulated",
+            "level fluctuation [m]": "5.5",
+            "Residence time [yr]": "0.3",
+            "Catchment area [km2]": "71,947"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {}
+    },
+    {
+        "name": "LAKE SIMCOE",
+        "location": "",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "725",
+            "Volume [km3]": "11.6",
+            "Maximum depth [m]": "41",
+            "Mean depth [m]": "15",
+            "Water level": "Regulated",
+            "Normal range of annual water level fluctuation [m]": "0.4",
+            "Residence time [yr]": "16",
+            "Catchment area [km2]": "2,840"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {}
+    },
+    {
+        "name": "LAKE SUPERIOR",
+        "location": "The Apostle Islands of Wisconsin are now a National\nLakeshore, with beautiful scenery and geological features. The long, hooked\narm of the beautiful Keweenaw Peninsula is also a National Lakeshore of\nMichigan. The lake water flows out to L. Huron through the St. Mary's River\nfrom the eastern end.",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "82,367",
+            "Volume [km3]": "12,221",
+            "Maximum depth [m]": "406",
+            "Mean depth [m]": "148",
+            "Water level": "Regulated",
+            "level fluctuation [m]*": "0.3",
+            "Length of shoreline [km]": "4,768",
+            "Residence time [yr]": "191",
+            "Catchment area [km2]": "124,838"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": [
+                {
+                    "Depth": "Woody vegetation",
+                    "1972": "117,970",
+                    "1975": "95.0"
+                },
+                {
+                    "Depth": "Herbaceous vegetation",
+                    "1972": "4,963",
+                    "1975": "4.0"
+                },
+                {
+                    "Depth": "Agricultural land",
+                    "1972": "1,740",
+                    "1975": "1.0"
+                },
+                {
+                    "Depth": "Residential area",
+                    "1972": "165",
+                    "1975": "1.0"
+                },
+                {
+                    "Depth": "Total",
+                    "1972": "124,838",
+                    "1975": "100.0"
+                }
+            ]
+        }
+    },
+    {
+        "name": "LAKE TAHOE",
+        "location": "",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "499",
+            "Volume [km3]": "156",
+            "Maximum depth [m]": "505",
+            "Mean depth [m]": "313",
+            "Length of shoreline [km]": "120",
+            "Residence time [yr]": "700",
+            "Catchment area [km2]": "841"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {}
+    },
+    {
+        "name": "LAKE WASHINGTON",
+        "location": "In 1916, a canal with locks and a fish ladder\nwas made connecting the lake with the open sea to the west for navigation.\nThe lake had been still oligotrophic in the late 1930's, but an increasing\ninflux of urban sewage from the surrounding area caused rapid progress\nof eutrophication, as indicated by the frequent bloom of blue-green algae\nin summer since 1955. However, the construction of sewage treatment plants\nand the diversion of treated water through a 180 km-long pipeline, carried\nout in the five years from 1963 to 1968, have improved the quality of the\nlake water until it recovered almost completely in 1975. The chemical parameters\nof the lake water have remained quite stable for the past ten years, and\nthe citizens of Seattle and neighboring cities enjoy swimming, fishing\nand sailing in the lake again.",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "88",
+            "Volume [km3]": "2.89",
+            "Maximum depth [m]": "65.2",
+            "Mean depth [m]": "32.9",
+            "Water level": "Regulated",
+            "Residence time [yr]": "3.1-1.7",
+            "Catchment area [km2]": "1,274"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": []
+        }
+    },
+    {
+        "name": "LAKE WINNIPEG",
+        "location": "The lake is composed of two basins; a wide north\nbasin and a narrow south basin. The Nelson River, the only outflow of this\nlake, proceeds northward from the north basin to Hudson Ray. On.the other\nhand, the Red River flows into the south basin with abundant loads of mud\nand nutrients washed out from the prairie. The city of Winnipeg is situated\nin the upper reaches of the Red River in the heart of Manitoba. The lake\nis so shallow in spite of its extensive area that the water remains always\nmuddy due to wave and turbulent mixing by strong winds. The population\ndensity in the drainage basin is still very low, but the lake has been\nfairly eutrophicated by nutrient loading of the Red and other inflowing\nrivers.",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "23,750",
+            "Volume [km3]": "284",
+            "Maximum depth [m]": "36.0",
+            "Mean depth [m]": "12.0",
+            "Water level": "Unregulated",
+            "Length of shoreline [km]": "1,750",
+            "Residence time [yr]": "2.9-4.3",
+            "Catchment area [km2]": "953,250"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": []
+        }
+    },
+    {
+        "name": "MANICOUAGAN RESERVOIR",
+        "location": "50:8N, 68:3W; ca. 366 m above sea level.",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "1,950",
+            "Volume [km3]": "141.6",
+            "Maximum depth [m]": "350",
+            "Mean depth [m]": "85",
+            "Water level": "Regulated",
+            "level fluctuation [m]": "5.6, 19.8*",
+            "Length of shoreline [km]": "1,322",
+            "Residence time [yr]": "8",
+            "Catchment area [km2]": "29,241"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [
+                "Zooplankton quality and quantity (no m-3), for May, June and July,\n1972"
+            ],
+            "benthos": [],
+            "fish_species": [
+                "Northern pike     0.4-2.37"
+            ],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": [
+                {
+                    "Depth": "",
+                    "1972": "6.5òÐ67",
+                    "1975": "4.9òÐ67"
+                }
+            ]
+        }
+    },
+    {
+        "name": "MASSAWIPPI LAKE",
+        "location": "",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "18",
+            "Volume [km3]": "0.745",
+            "Maximum depth [m]": "85.7",
+            "Mean depth [m]": "41.6",
+            "Water level": "Regulated",
+            "Length of shoreline [km]": "38.3",
+            "Residence time [yr]": "1.5",
+            "Catchment area [km2]": "586"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {}
+    },
+    {
+        "name": "MIQUELON LAKE",
+        "location": "The saline water tends to inhibit the growth of algae and the lake\nis often very clear.",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "9",
+            "Volume [km3]": "0.02374",
+            "Maximum depth [m]": "6",
+            "Mean depth [m]": "2.7",
+            "Water level": "Unregulated",
+            "Length of shoreline [km]": "19.5",
+            "Residence time [yr]*": "",
+            "Catchment area [km2]": "35"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {}
+    },
+    {
+        "name": "MUSKOKA LAKE",
+        "location": "45:0N, 79:5W; 225.2 m above sea level.",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "89",
+            "Volume [km3]": "1.387",
+            "Maximum depth [m]": "67",
+            "Mean depth [m]": "15.5",
+            "Water level": "Regulated",
+            "level fluctuation [m]": "1.0",
+            "Length of shoreline [km]": "285.3",
+            "Catchment area [km2]": "409 (2), 1,780 (7)"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [
+                "Zooplankton"
+            ],
+            "benthos": [],
+            "fish_species": [
+                "Salvelinus namaycush*",
+                "Micropterus salmoides*",
+                "M. dolomieui*",
+                "Stizostedion vitreum",
+                "Coregonus clupeaformis*",
+                "Esox lucius",
+                "Catostomus commersoni",
+                "Osmerus mordax",
+                "Perca flavescens."
+            ],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {}
+    },
+    {
+        "name": "NORTHWOOD LAKE",
+        "location": "43:3N, 71:5W; 158 m above sea level.",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "3",
+            "Volume [km3]": "0.0097",
+            "Maximum depth [m]": "7.6",
+            "Mean depth [m]": "3.7",
+            "Water level": "Regulated",
+            "level fluctuation [m]": "1.5",
+            "Residence time [yr]": "0.3",
+            "Catchment area [km2]": "41"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [
+                "Zooplankton (1)"
+            ],
+            "benthos": [],
+            "fish_species": [
+                "Fish and Game Department",
+                "Division of Inland and Marine Fisheries."
+            ],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": []
+        }
+    },
+    {
+        "name": "OKANAGAN LAKE",
+        "location": "",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "351",
+            "Volume [km3]": "24,644",
+            "Maximum depth [m]": "230",
+            "Mean depth [m]": "76",
+            "Water level": "Regulated",
+            "Length of shoreline [km]": "270",
+            "Residence time [yr]": "52.8",
+            "Catchment area [km2]": "6,188"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": []
+        }
+    },
+    {
+        "name": "OWASCO LAKE",
+        "location": "Location information not available",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "27",
+            "Volume [km3]": "0.7807",
+            "Maximum depth [m]": "54.0",
+            "Mean depth [m]": "29.3",
+            "Catchment area [km2]": "539"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": [
+                {
+                    "Depth": "Forest",
+                    "1972": "164.4",
+                    "1975": "35"
+                },
+                {
+                    "Depth": "Active agriculture",
+                    "1972": "227.6",
+                    "1975": "48"
+                },
+                {
+                    "Depth": "Inactive agriculture",
+                    "1972": "70.5",
+                    "1975": "15"
+                },
+                {
+                    "Depth": "Residential area",
+                    "1972": "7.5",
+                    "1975": "2"
+                },
+                {
+                    "Depth": "Total",
+                    "1972": "470.0",
+                    "1975": "100"
+                }
+            ]
+        }
+    },
+    {
+        "name": "PYRAMID LAKE",
+        "location": "40:0N, 119:5W; 1,160 m above sea level.",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "453",
+            "Volume [km3]": "27",
+            "Maximum depth [m]": "105",
+            "Mean depth [m]": "60",
+            "Length of shoreline [km]": "160",
+            "Residence time [yr]": "50",
+            "Catchment area [km2]": "4,730"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [
+                "Zooplankton"
+            ],
+            "benthos": [
+                "Benthos"
+            ],
+            "fish_species": [
+                "Gila bicolor",
+                "Catostomus tahoensis",
+                "Salmo clarki henshawi*",
+                "Chasmistes cujus**",
+                "Archoplites interruptus."
+            ],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {}
+    },
+    {
+        "name": "SENECA LAKE",
+        "location": "Although the Finger Lakes region is now well-known\nfor its many vineyards and orchards, it had been densely forested up until\nthe early 1800's when large areas were cleared for agriculture by white\nsettlers. The forests are now in the process of expanding as marginal farmland\nis abandoned and gradually invaded by trees.",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "175",
+            "Volume [km3]": "15.5",
+            "Maximum depth [m]": "198.4",
+            "Mean depth [m]": "88.6",
+            "Residence time [yr]": "18.1",
+            "Catchment area [km2]": "1,831"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": [
+                {
+                    "Depth": "Natural landscape",
+                    "1972": "",
+                    "1975": ""
+                },
+                {
+                    "Depth": "Forest",
+                    "1972": "476.5",
+                    "1975": "40"
+                },
+                {
+                    "Depth": "Agricultural land",
+                    "1972": "",
+                    "1975": ""
+                },
+                {
+                    "Depth": "Active agriculture",
+                    "1972": "501.5",
+                    "1975": "43"
+                },
+                {
+                    "Depth": "Inactive agriculture",
+                    "1972": "165.5",
+                    "1975": "14"
+                },
+                {
+                    "Depth": "Residential area",
+                    "1972": "37.1",
+                    "1975": "3"
+                },
+                {
+                    "Depth": "Total",
+                    "1972": "1,180.6",
+                    "1975": "100"
+                }
+            ]
+        }
+    },
+    {
+        "name": "SHUSWAP LAKE",
+        "location": "",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "310",
+            "Volume [km3]": "19.1",
+            "Maximum depth [m]": "161",
+            "Mean depth [m]": "62",
+            "Water level": "Unregulated",
+            "Normal range of annual water level fluctuation [m]": "3.0",
+            "Length of shoreline [km]": "1,430",
+            "Residence time [yr]": "2.1",
+            "Catchment area [km2]": "16,200"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {}
+    },
+    {
+        "name": "SKAHA LAKE",
+        "location": "",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "20",
+            "Volume [km3]": "0.558",
+            "Maximum depth [m]": "55",
+            "Mean depth [m]": "26",
+            "Water level": "Regulated",
+            "Normal range of annual water level fluctuation [m]": "0.6",
+            "Length of shoreline [km]": "29.5",
+            "Residence time [yr]": "1.2",
+            "Catchment area [km2]": "6,090"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": []
+        }
+    },
+    {
+        "name": "SMITH MOUNTAIN LAKE",
+        "location": "37:2-37:1 N, 79:2-79:5W; 238 m above sea level.",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "81",
+            "Volume [km3]": "2.8",
+            "Maximum depth [m]": "61.0",
+            "Mean depth [m]": "35.1",
+            "Water level": "Regulated",
+            "Length of shoreline [km]": "805",
+            "Residence time [yr]": "3.2-3.5",
+            "Catchment area [km2]": "2,570"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [
+                "Stripped bass* (Mofone saxatillis)",
+                "large mouth bass (Micropterus salmoides)",
+                "small mouth bass (Micropterus dolomieui)",
+                "shad (Dorosoma alosa)."
+            ],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": []
+        }
+    },
+    {
+        "name": "SOUTHERN INDIAN LAKE",
+        "location": "56:6-57:1N, 98:9-99:9W; 258* m above sea level.",
+        "latitude": 56.55833333333333,
+        "longitude": -98.65,
+        "physical_dimensions": {
+            "Surface area [km2]": "2,391*1",
+            "Volume [km3]": "23.4",
+            "Maximum depth [m]": "30",
+            "Mean depth [m]": "9.8",
+            "Water level": "Regulated",
+            "level fluctuation [m]": "0.9*2",
+            "Length of shoreline [km]": "3,798*1",
+            "(Region 1)": "0.17 (1)",
+            "(Region 2)": "1.4 (1)",
+            "Catchment area [km2]": "242,000"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [
+                "Zooplankton (8)"
+            ],
+            "benthos": [
+                "Benthos (9, 10)"
+            ],
+            "fish_species": [
+                "Coregonus clupeaformis* (lake whitefish)",
+                "C. artedii (lake cisco)",
+                "Stizostedion vitreum* (walleye)",
+                "S. canadense",
+                "Esox lucius* (northern pike)",
+                "Salvelinus namycush (lake trout)",
+                "Lota lota",
+                "Perca flavescens",
+                "Catostomus commersoni",
+                "C. catostomus",
+                "Hiodon alosoides",
+                "Pungitius pungitius",
+                "Cottus cognatus",
+                "spottail shiner",
+                "Iowa darter",
+                "Johnny darter",
+                "trout-perch",
+                "spoonhead sculpin",
+                "brook stickleback",
+                "longnose duce",
+                "lake chub."
+            ],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": []
+        }
+    },
+    {
+        "name": "TWIN LAKES",
+        "location": "39:5N, 106:0W; 2,804 m above sea level.",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "level fluctuation [m]": "2.5-4.5",
+            "Residence time [yr]": "0.47",
+            "Catchment area [km2]": "238"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [
+                "Zooplankton (5)"
+            ],
+            "benthos": [
+                "Benthos"
+            ],
+            "fish_species": [
+                "Salvelinus namaycush*",
+                "Salmo gairdneri*",
+                "S. trutta",
+                "S. clarki",
+                "Catostomus commersoni",
+                "C. catostomus",
+                "Oncorhynchus nerka."
+            ],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": []
+        }
+    },
+    {
+        "name": "WABAMUN LAKE",
+        "location": "Mean annual precipitation: 534 mm (6).",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "82",
+            "Volume [km3]": "0.513",
+            "Maximum depth [m]": "11",
+            "Mean depth [m]": "6.3",
+            "Water level": "Unregulated",
+            "Normal range of annual water level fluctuation [m]": "1",
+            "Length of shoreline [km]": "57.3",
+            "Residence time [yr]": ">100",
+            "Catchment area [km2]": "259"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {}
+    },
+    {
+        "name": "WEBSTER LAKE",
+        "location": "The watershed is dominated by Highland Lake in\nAndover, and Webster Lake in Franklin. The two lakes are connected by Sucker\nBrook, the largest of the many tributaries within the watershed. Webster\nLake (612 acres) is the larger of the two lakes, being 1.6 miles in length\nby 1.0 mile wide.",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "3",
+            "Volume [km3]": "0.1405",
+            "Maximum depth [m]": "13.7",
+            "Mean depth [m]": "5.7",
+            "Water level": "Regulated",
+            "level fluctuation [m]": "6.0",
+            "Length of shoreline [km]": "6.9",
+            "Residence time [yr]": "0.6",
+            "Catchment area [km2]": "43"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [
+                "Zooplankton (3)"
+            ],
+            "benthos": [
+                "Benthos: Cironomids, tubificid worms, planarians and caddis worms (3)."
+            ],
+            "fish_species": [
+                "Catostomus commersoni",
+                "Rhinichthys atratulus",
+                "Perca flavescens",
+                "Morone americana",
+                "Micropterus dolomieui",
+                "Notemigonus crysoleucas",
+                "smelts",
+                "sunfish",
+                "Ictalurus nebulosus",
+                "Esox."
+            ],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": []
+        }
+    },
+    {
+        "name": "WESTERN BROOK POND",
+        "location": "49:4N, 57:6W; 30 m above sea level.",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "23",
+            "Volume [km3]": "1.65",
+            "Maximum depth [m]": "165",
+            "Mean depth [m]": "72.5",
+            "Water level": "Unregulated",
+            "Length of shoreline [km]": "42.5",
+            "Residence time [yr]": "15.4",
+            "Catchment area [km2]": "171"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [
+                "Zooplankton"
+            ],
+            "benthos": [
+                "Benthos"
+            ],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": []
+        }
+    },
+    {
+        "name": "WILLISTON LAKE",
+        "location": "55:0-56:3N, 122:0-125:0W; 672.1* m above sea level.",
+        "latitude": 55.525,
+        "longitude": -123.5,
+        "physical_dimensions": {
+            "Surface area [km2]": "1,779",
+            "Volume [km3]": "70.3",
+            "Maximum depth [m]": "166",
+            "Mean depth [m]": "43.3",
+            "Water level": "Regulated",
+            "level fluctuation [m]": "16.8*",
+            "Length of shoreline [km]": "1,770",
+            "Residence time [yr]": "2.2",
+            "Catchment area [km2]": "72,000"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [
+                "Zooplankton"
+            ],
+            "benthos": [
+                "Benthos"
+            ],
+            "fish_species": [
+                "Oncorhynchus mykiss",
+                "O. nerka",
+                "Salvelinus confluentus",
+                "S. namaycush",
+                "Thymallus arcticus",
+                "Prosopium williamsoni",
+                "Coregonus clupeaformis",
+                "Lota lota",
+                "Richardsonius bacteatus",
+                "Ptychocheilus oregonensis",
+                "Mylophoilus caurinus",
+                "Catostomus macrocheilus",
+                "C. commersoni",
+                "C. catostomus",
+                "Cottus asper."
+            ],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": []
+        }
+    },
+    {
+        "name": "WOOD LAKE",
+        "location": "",
+        "latitude": null,
+        "longitude": null,
+        "physical_dimensions": {
+            "Surface area [km2]": "9",
+            "Volume [km3]": "0.1995",
+            "Maximum depth [m]": "34",
+            "Mean depth [m]": "21.5",
+            "Water level*1": "Regulated",
+            "Normal range of annual water level fluctuation [m]": "1.2",
+            "Length of shoreline [km]": "13.5",
+            "Residence time [yr]": "16.9*2",
+            "Catchment area [km2]": "190"
+        },
+        "climatic_data": {},
+        "biological_features": {
+            "zooplankton": [],
+            "benthos": [],
+            "fish_species": [],
+            "annual_fish_catch": "Not available"
+        },
+        "water_quality": {
+            "Transparency": []
+        }
+    }
+]
