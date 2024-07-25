@@ -3,6 +3,7 @@ import re
 import json
 from bs4 import BeautifulSoup
 
+
 # Function to fetch and save raw HTML for a specific lake
 def fetch_and_save_raw_html(url):
     response = requests.get(url)
@@ -12,6 +13,7 @@ def fetch_and_save_raw_html(url):
 
     raw_html = response.text
     return raw_html
+
 
 def fetch_lake_data(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
@@ -30,7 +32,8 @@ def fetch_lake_data(html_content):
             location = location_br.next_sibling.strip()
             match = re.search(r'(\d+):(\d+)-(\d+):(\d+)N, (\d+):(\d+)-(\d+):(\d+)W', location)
             if match:
-                lat_deg1, lat_min1, lat_deg2, lat_min2, lon_deg1, lon_min1, lon_deg2, lon_min2 = map(int, match.groups())
+                lat_deg1, lat_min1, lat_deg2, lat_min2, lon_deg1, lon_min1, lon_deg2, lon_min2 = map(int,
+                                                                                                     match.groups())
                 latitude = (lat_deg1 + lat_min1 / 60 + lat_deg2 + lat_min2 / 60) / 2
                 longitude = -((lon_deg1 + lon_min1 / 60 + lon_deg2 + lon_min2 / 60) / 2)
 
@@ -81,14 +84,17 @@ def fetch_lake_data(html_content):
                     current_section = 'fishery'
                     break
             elif element.name == 'br' and current_section == 'fauna':
-                sibling_text = element.next_sibling.strip() if element.next_sibling and isinstance(element.next_sibling, str) else ''
+                sibling_text = element.next_sibling.strip() if element.next_sibling and isinstance(element.next_sibling,
+                                                                                                   str) else ''
                 if 'Zooplankton' in sibling_text:
                     biological_features['zooplankton'] = [item.strip() for item in sibling_text.split(';')]
                 elif 'Benthos' in sibling_text:
                     biological_features['benthos'] = [item.strip() for item in sibling_text.split(';')]
                 elif 'Fish' in sibling_text:
                     fish_br = element.find_next('br')
-                    fish_species_list = fish_br.next_sibling.strip().replace('\n', ' ') if fish_br and fish_br.next_sibling and isinstance(fish_br.next_sibling, str) else ''
+                    fish_species_list = fish_br.next_sibling.strip().replace('\n',
+                                                                             ' ') if fish_br and fish_br.next_sibling and isinstance(
+                        fish_br.next_sibling, str) else ''
                     if fish_species_list:
                         biological_features['fish_species'] = [fish.strip() for fish in fish_species_list.split(',')]
 
@@ -133,6 +139,7 @@ def fetch_lake_data(html_content):
 
     return lake_data
 
+
 def main():
     lake_links = []
     with open('lake_links.txt', 'r') as file:
@@ -148,12 +155,13 @@ def main():
             lake_data = fetch_lake_data(raw_html)
             all_lake_data.append(lake_data)
 
-        counter+=1
+        counter += 1
 
     with open('all_lake_data.json', 'w', encoding='utf-8') as json_file:
         json.dump(all_lake_data, json_file, ensure_ascii=False, indent=4)
 
     print(f"Scraped data for {len(all_lake_data)} lakes and saved to all_lake_data.json")
+
 
 if __name__ == "__main__":
     main()
